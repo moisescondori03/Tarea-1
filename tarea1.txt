@@ -1,1 +1,4 @@
-Esta es la tarea numero 1
+Esta es la tarea numero 0 y 1
+Para empezar a introducirnos en este nuevo mundo, realiza una nueva página (index.html) siguiendo
+la estructura tradicional de HTML, aplicando las etiquetas ya vistas, sumándole el contenido que creas
+adecuado para tu trabajo final.
